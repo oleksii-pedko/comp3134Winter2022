@@ -1,0 +1,11 @@
+traceroute nofrills.ca
+traceroute to nofrills.ca (23.49.88.246), 64 hops max, 52 byte packets
+ 1  hitronhub.home (192.168.0.1)  4.107 ms  3.291 ms  2.815 ms
+ 2  72.140.133.129 (72.140.133.129)  14.805 ms  16.025 ms  8.110 ms
+ 3  24.156.149.65 (24.156.149.65)  7.059 ms  21.699 ms  23.302 ms
+ 4  9034-cgw01.wlfdle.rmgt.net.rogers.com (69.63.249.229)  13.039 ms
+    69.63.248.101 (69.63.248.101)  18.771 ms
+    69.63.248.105 (69.63.248.105)  14.389 ms
+ 5  3021-dgw02.mtnk.rmgt.net.rogers.com (209.148.232.54)  15.965 ms  18.015 ms  17.754 ms
+ 6  3000-dgw01.mtnk.rmgt.net.rogers.com (209.148.232.58)  20.382 ms  17.096 ms  15.098 ms
+ 7  * * *

@@ -1,0 +1,72 @@
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2031-03-30
+Updated On:2022-01-26
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+Domain:instagram.com
+Registrar:RegistrarSafe, LLC
+Registered On:2004-06-04
+Expires On:2031-06-04
+Updated On:2021-11-08
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.instagram.com
+b.ns.instagram.com
+c.ns.instagram.com
+d.ns.instagram.com
+
+Domain:kijiji.ca
+Registrar:MarkMonitor International Canada Ltd.
+Registered On:2005-01-18
+Expires On:2023-01-18
+Updated On:2021-12-17
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:ns1.p13.dynect.net
+ns2.p13.dynect.net
+ns3.p13.dynect.net
+ns4.p13.dynect.net
+
+Domain:gmail.com
+Registrar:MarkMonitor Inc.
+Registered On:1995-08-13
+Expires On:2022-08-11
+Updated On:2021-07-11
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+Domain:getbootstrap.com
+Registrar:GoDaddy.com, LLC
+Registered On:2012-01-10
+Expires On:2023-01-10
+Updated On:2018-12-22
+Status:clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:iris.ns.cloudflare.com
+tom.ns.cloudflare.com

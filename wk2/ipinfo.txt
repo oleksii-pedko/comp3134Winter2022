@@ -1,0 +1,20 @@
+Domain: walmart.ca
+Location: US
+Domain Server IP: 23.199.3.41
+
+Domain: https://www.nofrills.ca/
+Location: CA
+Domain Server IP: 104.127.159.80
+
+Domain: https://www.amazon.ca/
+Location: CA
+Domain Server IP: 18.64.170.51
+
+Domain: https://www.metro.ca/en
+Location: US
+Domain Server IP: 104.18.38.116
+Domain Server IP: 172.64.149.140
+
+Domain: https://www.blackboard.com
+Location: US
+Domain Server IP: 104.17.96.235

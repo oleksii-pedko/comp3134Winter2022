@@ -1,0 +1,25 @@
+alexpedko@MacBook-Pro-Alex-2 ~ % ping 142.93.156.219      
+PING 142.93.156.219 (142.93.156.219): 56 data bytes
+64 bytes from 142.93.156.219: icmp_seq=0 ttl=55 time=17.202 ms
+64 bytes from 142.93.156.219: icmp_seq=1 ttl=55 time=18.051 ms
+64 bytes from 142.93.156.219: icmp_seq=2 ttl=55 time=12.560 ms
+64 bytes from 142.93.156.219: icmp_seq=3 ttl=55 time=13.436 ms
+64 bytes from 142.93.156.219: icmp_seq=4 ttl=55 time=15.323 ms
+64 bytes from 142.93.156.219: icmp_seq=5 ttl=55 time=11.714 ms
+64 bytes from 142.93.156.219: icmp_seq=6 ttl=55 time=10.672 ms
+64 bytes from 142.93.156.219: icmp_seq=7 ttl=55 time=18.513 ms
+64 bytes from 142.93.156.219: icmp_seq=8 ttl=55 time=15.527 ms
+64 bytes from 142.93.156.219: icmp_seq=9 ttl=55 time=15.289 ms
+64 bytes from 142.93.156.219: icmp_seq=10 ttl=55 time=14.274 ms
+64 bytes from 142.93.156.219: icmp_seq=11 ttl=55 time=11.198 ms
+64 bytes from 142.93.156.219: icmp_seq=12 ttl=55 time=11.861 ms
+64 bytes from 142.93.156.219: icmp_seq=13 ttl=55 time=13.417 ms
+64 bytes from 142.93.156.219: icmp_seq=14 ttl=55 time=12.236 ms
+64 bytes from 142.93.156.219: icmp_seq=15 ttl=55 time=11.631 ms
+64 bytes from 142.93.156.219: icmp_seq=16 ttl=55 time=120.001 ms
+64 bytes from 142.93.156.219: icmp_seq=17 ttl=55 time=160.436 ms
+64 bytes from 142.93.156.219: icmp_seq=18 ttl=55 time=237.410 ms
+^C
+--- 142.93.156.219 ping statistics ---
+19 packets transmitted, 19 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 10.672/38.987/237.410/61.053 ms
